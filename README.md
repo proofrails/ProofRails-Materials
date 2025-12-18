@@ -1,11 +1,11 @@
 # ProofRails-Mission
 
-ProofRails exists to make every blockchain transaction verifiable, compliant-ready, and trusted — by anyone, anywhere.
+ProofRails exists to make onchain financial activity legible and provable in the language the real economy already uses.
 
-We build the open standard for Payment Proofs: a common language that connects decentralized payments with the financial systems and regulations of the real world.
+We are building an open translation layer from onchain events to ISO-style financial records, packaged with deterministic, signed evidence bundles that can be independently verified and, when needed, anchored onchain for integrity and timestamp guarantees.
 
-Our mission is to turn crypto transactions into reliable, audit-ready records — creating the infrastructure layer that allows stablecoins, wallets, and fintechs to operate with transparency, accountability, and global interoperability.
+Our mission is to turn crypto payments, payouts, and settlement flows into reliable records that products can share, partners can integrate, and compliance teams can stand behind—without forcing anyone to “read the chain” to understand what happened.
 
-We believe verification should always be open, and the systems that guarantee it must remain secure and reliable. That’s why ProofRails combines open-source standards and verifier tools with a trusted core service that guarantees integrity, uptime, and compliance.
+We believe verification should be open and reproducible. That’s why ProofRails ships open specs, SDKs, and verifier tooling, alongside a production-grade service for teams that need reliability, security, and operational support.
 
-We empower builders, auditors, and institutions to collaborate — extending ProofRails through open SDKs, public specs, and verifiable records — while safeguarding the reliability and neutrality of the infrastructure that anchors global payments.
+We empower builders and institutions: wallets, PSPs, stablecoin operators, DeFi infrastructure, and tokenization/RWA platforms, to adopt a shared evidence standard for onchain finance and extend it as the ecosystem evolves.
